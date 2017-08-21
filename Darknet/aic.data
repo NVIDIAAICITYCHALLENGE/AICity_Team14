@@ -1,5 +1,0 @@
-classes= 15
-train  = train.txt
-valid  = valid.txt
-names = data/aic.names
-backup = backup
