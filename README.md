@@ -16,9 +16,15 @@ https://drive.google.com/open?id=0B7BvwOfVcWAKMzNVWktVc0VzQ1k
 
 AICity_Team14 -> Darknet-> code: Contains entire Darknet framework code with all necessary changes required for AIC dataset aic1080 trained.
 
+Please download the cfg folder from -
+https://drive.google.com/open?id=0B7BvwOfVcWAKMzNVWktVc0VzQ1k and place it inside Darknet->code as shown below.
+
 AICity_Team14 -> Darknet-> code -> cfg -> aic.data : contains the configurations and path locations for the training as well as validation folder of the dataset.
 
 AICity_Team14 -> Darknet-> code -> cfg -> yolo-aic.cfg : explains the yolo network with layers defined for the aic dataset.
+
+Please download the data folder from -
+https://drive.google.com/open?id=0B7BvwOfVcWAKMzNVWktVc0VzQ1k and place it inside Darknet->code as shown below.
 
 AICity_Team14 -> Darknet-> code -> data -> aic.names :contains all the 14 classes of the aic dataset which are to be detected.
 
