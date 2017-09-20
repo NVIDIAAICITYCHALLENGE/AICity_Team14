@@ -11,7 +11,8 @@ AICity_Team14 -> Detectnet -> code -> 14classes_aic_detectnet_deploy_network.pro
 
 AICity_Team14 -> Detectnet -> code -> bvlc_googlenet.caffemodel: pretrained model used for the training the aic dataset.
 
-AICity_Team14 -> Detectnet -> Model: Contains Detectnet trained model for 10 epochs.
+Detectnet trained model("snapshot_iter_74360.caffemodel") for 10 epochs is in the Detectnet folder - 
+https://drive.google.com/open?id=0B7BvwOfVcWAKMzNVWktVc0VzQ1k
 
 AICity_Team14 -> Darknet-> code: Contains entire Darknet framework code with all necessary changes required for AIC dataset aic1080 trained.
 
@@ -21,7 +22,8 @@ AICity_Team14 -> Darknet-> code -> cfg -> yolo-aic.cfg : explains the yolo netwo
 
 AICity_Team14 -> Darknet-> code -> data -> aic.names :contains all the 14 classes of the aic dataset which are to be detected.
 
-AICity_Team14 -> Darknet -> Model: Contains Darknet trained model for 30000 iterations.
+Darknet trained model("Yolo-aic.backup") for 30000 iterations is in the Darknet folder - 
+https://drive.google.com/open?id=0B7BvwOfVcWAKMzNVWktVc0VzQ1k
 
 Execution of Detectnet model: 
 
